@@ -4,6 +4,23 @@ Este projeto é uma API simples desenvolvida com FastAPI e PostgreSQL para geren
 
 ---
 
+# 📦 Dependências
+
+fastapi
+
+uvicorn
+
+sqlalchemy
+
+psycopg2-binary
+
+python-dotenv
+
+# 🐍 Versão da Linguagem e Versão da ORM
+
+Python 3.14.3
+SQLAlchemy 2.0.47
+
 # 📋 Pré-requisitos
 
 Antes de começar, você precisa ter instalado:
